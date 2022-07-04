@@ -1,0 +1,15 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-color: #3a546d;
+	overflow-x:hidden;
+	overflow-y:hidden;
+    text-align: center;
+}
+
+form{
+  padding-top: 60px;
+}
+h1{
+	color: #ffff;
+}
